@@ -1,0 +1,14 @@
+# Bỏ qua thư mục build và file tạm
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Bỏ qua dữ liệu huấn luyện
+train_model/
+weights/
+imgs/
+
+# Bỏ qua các file cấu hình cá nhân
+.env
+config.json
