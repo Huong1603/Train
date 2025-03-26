@@ -1,0 +1,7 @@
+numpy
+opencv-python
+torch
+pillow
+gradio
+ultralytics
+scikit-learn
