@@ -1,0 +1,7 @@
+nc: 1
+names: ['0']
+train: train/images
+val: val/images
+test: val/images
+
+dataset_paths: /content/drive/MyDrive/Nhận diện biển số ce
